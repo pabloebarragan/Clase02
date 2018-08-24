@@ -36,5 +36,8 @@ int main()
     printf("Numero Maximo: %d \n", numeroMaximo);
     printf("Numero Minimo: %d \n", numeroMinimo);
     printf("Promedio: %2.2f \n", promedio);
+
+    //pongo un comentario.
+
     return 0;
 }
